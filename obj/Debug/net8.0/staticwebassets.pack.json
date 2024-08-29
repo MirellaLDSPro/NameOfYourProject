@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/obj/Debug/net8.0/compressed/3fyl80z7fv.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/obj/Debug/net8.0/scopedcss/bundle/NameOfYourProject.styles.css",
+      "PackagePath": "staticwebassets/NameOfYourProject.styles.css"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NameOfYourProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NameOfYourProject.props",
+      "PackagePath": "build\\NameOfYourProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NameOfYourProject.props",
+      "PackagePath": "buildMultiTargeting\\NameOfYourProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NameOfYourProject.props",
+      "PackagePath": "buildTransitive\\NameOfYourProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
