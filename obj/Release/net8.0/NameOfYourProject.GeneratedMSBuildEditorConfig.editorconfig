@@ -26,12 +26,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mplayer/Projects/Estudos/C\#/Novo/NameOfYourProject/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mplayer/Projects/Estudos/C\#/Novo/NameOfYourProject/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mplayer/Projects/Estudos/C\#/Novo/NameOfYourProject/Pages/Email.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1haWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mplayer/Projects/Estudos/C\#/Novo/NameOfYourProject/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mplayer/Projects/Estudos/C\#/Novo/NameOfYourProject/Pages/Substituir.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3Vic3RpdHVpci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mplayer/Projects/Estudos/C\#/Novo/NameOfYourProject/Pages/Weather.razor]
