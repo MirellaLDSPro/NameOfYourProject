@@ -1029,3 +1029,4 @@
 /Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/obj/Release/net8.0/refint/NameOfYourProject.dll
 /Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/obj/Release/net8.0/NameOfYourProject.pdb
 /Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/obj/Release/net8.0/ref/NameOfYourProject.dll
+/Users/mplayer/Projects/Estudos/C#/Novo/NameOfYourProject/obj/Release/net8.0/NameOfYourProject.sourcelink.json
