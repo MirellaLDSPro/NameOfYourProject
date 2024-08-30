@@ -1,3 +1,31 @@
 @page "/substituir"
 
 <h1>Substituir</h1>
+
+<input @bind="text" />
+<button @onclick="() => Executar()">Clear</button>
+
+<div class="mb-3">
+        <label for="docFile" class="form-label">Selecione o arquivo DOC</label>
+        <input type="file" class="form-control" id="inputGroupFile02">
+    </div>
+
+    <div class="mb-3">
+        <label for="oldText" class="form-label">Texto a ser substituído</label>
+        <input id="oldText" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="newText" class="form-label">Novo texto</label>
+        <input id="newText" class="form-control" />
+    </div>
+
+    <button type="button" class="btn btn-primary">Enviar</button>
+
+@code {
+    string text = "";
+
+    private void Executar() {
+        text = string.Empty;
+    }
+}
